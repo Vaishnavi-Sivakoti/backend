@@ -1,0 +1,31 @@
+{
+  "name": "basicreg",
+  "version": "1.0.0",
+  "description": "registration,login using node react mongoDB",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaishnavi-078/Node.git"
+  },
+  "keywords": [
+    "Node",
+    "React",
+    "MongoDB"
+  ],
+  "author": "Vaishnavi Sivakoti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vaishnavi-078/Node/issues"
+  },
+  "homepage": "https://github.com/vaishnavi-078/Node#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^6.10.0",
+    "simple-encryptor": "^4.0.0"
+  }
+}
